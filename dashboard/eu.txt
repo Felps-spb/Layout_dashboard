@@ -1,0 +1,7 @@
+ <div class="flex flex-col">
+                <a href=""><i class="fa-solid fa-chart-pie"></i>Summary</a>
+                <a href=""><i class="fa-solid fa-arrows-turn-right"></i>Transactions</a>
+                <a href=""><i class="fa-solid fa-chart-line"></i>Statistics</a>
+                <a href=""><i class="fa-solid fa-cart-flatbed"></i>Product</a>
+                <a href=""><i class="fa-solid fa-table-cells-large"></i>Category</a>
+        </div>
